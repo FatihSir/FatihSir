@@ -13,12 +13,12 @@
 
 ### 👨‍💻 Professional Profile
 
-I am a **Ph.D. [cite_start]Candidate and Applied AI Engineer** bridging the gap between rigorous research and production-grade software[cite: 7, 51]. [cite_start]Specializing in **Computer Vision**, **Signal Processing**, and **Deep Learning**, I design scalable architectures for pattern recognition and anomaly detection[cite: 8, 9].
+I am a **Ph.D. [cite_start]Candidate and Applied AI Engineer** bridging the gap between rigorous research and production-grade software[cite: 51, 8]. [cite_start]Specializing in **Computer Vision**, **Signal Processing**, and **Deep Learning**, I design scalable architectures for pattern recognition and anomaly detection[cite: 8, 9].
 
 [cite_start]Currently, I serve as a Scholar Researcher at **TÜBİTAK**, developing machine learning solutions for **live location detection under earthquake debris** using high-frequency wireless sensing[cite: 18, 20].
 
-* [cite_start]**Core Competencies:** Deep Learning Architectures (CNN, LSTM, Transformers), Statistical Modeling, and MLOps[cite: 8, 10].
-* [cite_start]**Research Focus:** Wireless Sensing, Indoor Localization, and Heterogeneous Data Analysis[cite: 21, 54].
+* [cite_start]**Core Competencies:** Deep Learning Architectures (CNN, LSTM, Transformers), Statistical Modeling, and MLOps[cite: 8, 17, 16].
+* [cite_start]**Research Focus:** Wireless Sensing, Indoor Localization, and Heterogeneous Data Analysis[cite: 54, 64].
 
 ---
 
@@ -29,9 +29,9 @@ I am a **Ph.D. [cite_start]Candidate and Applied AI Engineer** bridging the gap 
 | **Core Domain** | **Stack & Tools** |
 | :--- | :--- |
 | **Deep Learning & AI** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikitlearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) |
-| **Generative AI & NLP** | [cite_start]Transformers, LLMs (Gemini), Attention Mechanisms [cite: 13, 42] |
-| **Data Engineering** | [cite_start]![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) SQLAlchemy, ETL Pipelines [cite: 15] |
-| **Engineering & DevOps** | [cite_start]![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) CI/CD, Git [cite: 16] |
+| **Generative AI & NLP** | [cite_start]Transformers, LLMs (Gemini), Attention Mechanisms [cite: 13, 42, 48] |
+| **Data Engineering** | [cite_start]![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) SQLAlchemy, ETL Pipelines [cite: 15, 43] |
+| **Engineering & DevOps** | [cite_start]![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) CI/CD, Git [cite: 16, 44] |
 
 ---
 
