@@ -18,7 +18,7 @@ I am a **Ph.D. Candidate and Applied AI Engineer** bridging the gap between rigo
 Currently, I serve as a Scholar Researcher at **TÜBİTAK**, developing machine learning solutions for **live location detection under earthquake debris** using high-frequency wireless sensing.
 
 * **Core Competencies:** Deep Learning Architectures (CNN, LSTM, Transformers), Statistical Modeling, and MLOps.
-* **Research Focus:** Wireless Sensing, Indoor Localization, and Heterogeneous Data Analysis.
+* **Research Focus:** Computer Vision, Wireless Sensing, Indoor Localization, and Heterogeneous Data Analysis.
 
 ---
 
