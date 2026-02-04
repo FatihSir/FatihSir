@@ -1,0 +1,30 @@
+name: Profile Views Counter
+
+on:
+  schedule:
+    - cron: "0 * * * *"   # runs every hour
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update counter
+        run: |
+          COUNT_FILE=counter.txt
+          if [ ! -f $COUNT_FILE ]; then
+            echo 0 > $COUNT_FILE
+          fi
+          COUNT=$(cat $COUNT_FILE)
+          COUNT=$((COUNT+1))
+          echo $COUNT > $COUNT_FILE
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add counter.txt
+          git commit -m "Update profile view counter" || exit 0
+          git push
