@@ -1,6 +1,6 @@
 <div align="center">
 
-# Mohamedalfateh Saeed
+# MOHAMEDALFATEH T. M. SAEED
 ### Ph.D. Candidate | Applied AI/ML Engineer | Computer Vision & Production ML
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MohamedalfatehSaeed)
